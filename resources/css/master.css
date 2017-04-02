@@ -1,3 +1,57 @@
 html {
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+body {
+
+}
+
+header {
+    background-color: black;
+    width: 960px;
+}
+
+header.topbar {
+  font-size: 1rem;
+  padding: 0.66rem auto;
+}
+
+header.topbar img {
+  height: 1.5rem;
+  width: auto;
+  margin: auto 1rem auto 0.5rem;
+}
+
+header.imagebar {
+  height: 25rem;
+  background-image: url("resources\images\moto.jpeg");
+  background-size: cover;
+}
+.headerbox {
+  width: 20rem;
+}
+
+.headerbox h4 {
+  padding-top: 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.headerbox h2 {
+  padding-top: 0.25rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+header nav {
+
+}
+
+
+
+
+footer {
+  background-color: black;
 
 }
